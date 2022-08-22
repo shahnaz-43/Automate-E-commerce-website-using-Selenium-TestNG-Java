@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+.gradle
+.idea
+allure-results
+build
+gradle
